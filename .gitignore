@@ -1,0 +1,15 @@
+.cache
+.dotnet
+.ipython
+.local
+.nv
+.vscode-server
+env
+Meta-Llama-3.1-8B-Instruct
+.bash_history
+.bashrc
+.profile
+.wget-hsts
+model
+stereoset
+BBQ-main
